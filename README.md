@@ -5,3 +5,4 @@
 
 ## III семестр:
 ### [Чисельні методи](https://github.com/MazurenkoNick/NumericalMethods)
+### [ООП](https://github.com/MazurenkoNick/OOP)
